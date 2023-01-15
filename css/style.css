@@ -1,23 +1,32 @@
 * {
-    padding: 0;
-    margin: 0;
+  padding: 0;
+  margin: 0;
 }
 
 body {
-    font-family: Verdana, sans-serif;
+  font-family: Verdana, sans-serif;
 }
 
 .outer {
-    height: 100vh;
-    width: 100vw;
-    display: flex;
-    justify-content: center;
-    padding-top: 10px;
-    color: bisque;
-    background-color: chocolate;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  color: bisque;
+  background-color: chocolate;
 }
 
 .inside li {
-    list-style: none;
-    font-size: x-large;
+  list-style: none;
+  font-size: x-large;
+}
+.yoni {
+  color: skyblue;
+}
+.yo {
+  color: aqua;
+}
+.yon {
+  color: blue;
 }
